@@ -1,3 +1,7 @@
 .title {
+  /* Earlier the text-transform was uppercase */
+  text-transform: capitalize;
+  font-size: 55px;
+  background-color: black;
   color: aquamarine;
 }
